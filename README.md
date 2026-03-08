@@ -14,6 +14,14 @@ A dynamic Android trivia application built with Jetpack Compose that challenges 
 * **Robust State Management**: Handles loading, success, and error states gracefully using a `DataOrException` wrapper and ViewModels.
 * **Dependency Injection**: Fully powered by Hilt for clean architecture and testability.
 
+| Dark Mode | Light Mode |
+| :---: | :---: |
+| <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/a2bc4649-928c-4fd5-96d2-dc265b7339d9" /> | <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/11e780a2-d206-4381-861f-accd7fbd490c" /> |
+| <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/773b35fd-f59d-4ed1-8284-6339a2bc6fc5" /> | <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/8e91c1b6-83c2-45b2-91ad-d2bd18feafc0" /> |
+| <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/755b8586-f772-43e5-8731-1d1371010fd2" /> | <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/a1c4f339-1e56-437c-9890-ca3b1cd8dfa2" /> |
+| <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/138e2fa3-7d9e-4044-a909-b94a3678b875" /> | <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/c750f428-8ae5-4c22-9ab2-ae9a4173a4d4" /> |
+| <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/199cf69f-0aca-4d81-95ce-90feeb566a72" /> | <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/4e79f1a4-43a4-4156-8fff-8e4d121b1379" /> |
+
 ## Tech Stack
 
 * **Language**: Kotlin
